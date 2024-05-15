@@ -17,5 +17,8 @@ echo "$d"
 e=b/a
 
 f=b*a
+# now i am going to add the funcitonality of the percentage
+#
+y=b%a
 
 
