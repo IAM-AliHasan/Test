@@ -16,5 +16,6 @@ echo "$d"
 
 e=b/a
 
+f=b*a
 
 
