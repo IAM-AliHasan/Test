@@ -12,4 +12,9 @@ echo "$c"
 d=b-a
 echo "$d"
 
+#this is the third version and we are going to create division
+
+e=b/a
+
+
 
